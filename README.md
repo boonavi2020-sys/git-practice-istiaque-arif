@@ -1,10 +1,17 @@
-\# Git Practice Project
+# Git Practice Project
 
+## Author
 
+Istiaque Arif
 
-Your Name: ISTIAQUE ARIF
+## Purpose
 
+A small Python command-line program that demonstrates basic calculator operations while practicing Git and GitHub.
 
+## Run the program
 
-This project is a simple Python program created to practice Git and GitHub.
+From the project folder, run:
 
+```powershell
+py src\main.py
+```
